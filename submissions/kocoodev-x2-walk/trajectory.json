@@ -1,0 +1,340 @@
+{
+  "project": "X2 Humanoid Walking Demo",
+  "robot": "Agibot X2 (x2_ultra)",
+  "task": "Deterministic biped gait animation with forward locomotion and demo video export.",
+  "model": "/Users/yaohu/Documents/GitHub/axis-uni/hackathon-mujoco-demo/kocoodev-robothaon-test/assets/x2/scene.xml",
+  "video": "/Users/yaohu/Documents/GitHub/axis-uni/hackathon-mujoco-demo/kocoodev-robothaon-test/submissions/kocoodev-x2-walk/demo.mp4",
+  "trajectory": "/Users/yaohu/Documents/GitHub/axis-uni/hackathon-mujoco-demo/kocoodev-robothaon-test/submissions/kocoodev-x2-walk/trajectory.json",
+  "duration_s": 8.0,
+  "fps": 30,
+  "walk_speed_hz": 1.15,
+  "distance_m": 0.75,
+  "success": true,
+  "final_pelvis_pos": [
+    0.5,
+    -0.00065,
+    0.69275
+  ],
+  "trajectory_samples": [
+    {
+      "time_s": 0.0,
+      "pelvis_pos": [
+        -0.25,
+        0.0,
+        0.68
+      ]
+    },
+    {
+      "time_s": 0.2,
+      "pelvis_pos": [
+        -0.25,
+        0.00391,
+        0.69488
+      ]
+    },
+    {
+      "time_s": 0.4,
+      "pelvis_pos": [
+        -0.25,
+        0.00773,
+        0.68373
+      ]
+    },
+    {
+      "time_s": 0.6,
+      "pelvis_pos": [
+        -0.24809,
+        0.01135,
+        0.66605
+      ]
+    },
+    {
+      "time_s": 0.8,
+      "pelvis_pos": [
+        -0.24252,
+        0.01469,
+        0.67277
+      ]
+    },
+    {
+      "time_s": 1.0,
+      "pelvis_pos": [
+        -0.23351,
+        0.01768,
+        0.69214
+      ]
+    },
+    {
+      "time_s": 1.2,
+      "pelvis_pos": [
+        -0.2213,
+        0.02023,
+        0.69027
+      ]
+    },
+    {
+      "time_s": 1.4,
+      "pelvis_pos": [
+        -0.20611,
+        0.02228,
+        0.67044
+      ]
+    },
+    {
+      "time_s": 1.6,
+      "pelvis_pos": [
+        -0.18817,
+        0.02378,
+        0.66734
+      ]
+    },
+    {
+      "time_s": 1.8,
+      "pelvis_pos": [
+        -0.16772,
+        0.02469,
+        0.68639
+      ]
+    },
+    {
+      "time_s": 2.0,
+      "pelvis_pos": [
+        -0.14497,
+        0.025,
+        0.69427
+      ]
+    },
+    {
+      "time_s": 2.2,
+      "pelvis_pos": [
+        -0.12017,
+        0.02469,
+        0.67719
+      ]
+    },
+    {
+      "time_s": 2.4,
+      "pelvis_pos": [
+        -0.09353,
+        0.02378,
+        0.66503
+      ]
+    },
+    {
+      "time_s": 2.6,
+      "pelvis_pos": [
+        -0.06529,
+        0.02228,
+        0.67906
+      ]
+    },
+    {
+      "time_s": 2.8,
+      "pelvis_pos": [
+        -0.03567,
+        0.02023,
+        0.69473
+      ]
+    },
+    {
+      "time_s": 3.0,
+      "pelvis_pos": [
+        -0.00491,
+        0.01768,
+        0.68464
+      ]
+    },
+    {
+      "time_s": 3.2,
+      "pelvis_pos": [
+        0.02677,
+        0.01469,
+        0.66643
+      ]
+    },
+    {
+      "time_s": 3.4,
+      "pelvis_pos": [
+        0.05913,
+        0.01135,
+        0.67196
+      ]
+    },
+    {
+      "time_s": 3.6,
+      "pelvis_pos": [
+        0.09195,
+        0.00773,
+        0.69156
+      ]
+    },
+    {
+      "time_s": 3.8,
+      "pelvis_pos": [
+        0.125,
+        0.00391,
+        0.69093
+      ]
+    },
+    {
+      "time_s": 4.0,
+      "pelvis_pos": [
+        0.15805,
+        0.0,
+        0.67118
+      ]
+    },
+    {
+      "time_s": 4.2,
+      "pelvis_pos": [
+        0.19087,
+        -0.00391,
+        0.66686
+      ]
+    },
+    {
+      "time_s": 4.4,
+      "pelvis_pos": [
+        0.22323,
+        -0.00773,
+        0.68552
+      ]
+    },
+    {
+      "time_s": 4.6,
+      "pelvis_pos": [
+        0.25491,
+        -0.01135,
+        0.69453
+      ]
+    },
+    {
+      "time_s": 4.8,
+      "pelvis_pos": [
+        0.28567,
+        -0.01469,
+        0.67812
+      ]
+    },
+    {
+      "time_s": 5.0,
+      "pelvis_pos": [
+        0.31529,
+        -0.01768,
+        0.665
+      ]
+    },
+    {
+      "time_s": 5.2,
+      "pelvis_pos": [
+        0.34353,
+        -0.02023,
+        0.67812
+      ]
+    },
+    {
+      "time_s": 5.4,
+      "pelvis_pos": [
+        0.37017,
+        -0.02228,
+        0.69453
+      ]
+    },
+    {
+      "time_s": 5.6,
+      "pelvis_pos": [
+        0.39497,
+        -0.02378,
+        0.68552
+      ]
+    },
+    {
+      "time_s": 5.8,
+      "pelvis_pos": [
+        0.41772,
+        -0.02469,
+        0.66686
+      ]
+    },
+    {
+      "time_s": 6.0,
+      "pelvis_pos": [
+        0.43817,
+        -0.025,
+        0.67118
+      ]
+    },
+    {
+      "time_s": 6.2,
+      "pelvis_pos": [
+        0.45611,
+        -0.02469,
+        0.69093
+      ]
+    },
+    {
+      "time_s": 6.4,
+      "pelvis_pos": [
+        0.4713,
+        -0.02378,
+        0.69156
+      ]
+    },
+    {
+      "time_s": 6.6,
+      "pelvis_pos": [
+        0.48351,
+        -0.02228,
+        0.67196
+      ]
+    },
+    {
+      "time_s": 6.8,
+      "pelvis_pos": [
+        0.49252,
+        -0.02023,
+        0.66643
+      ]
+    },
+    {
+      "time_s": 7.0,
+      "pelvis_pos": [
+        0.49809,
+        -0.01768,
+        0.68464
+      ]
+    },
+    {
+      "time_s": 7.2,
+      "pelvis_pos": [
+        0.5,
+        -0.01469,
+        0.69473
+      ]
+    },
+    {
+      "time_s": 7.4,
+      "pelvis_pos": [
+        0.5,
+        -0.01135,
+        0.67906
+      ]
+    },
+    {
+      "time_s": 7.6,
+      "pelvis_pos": [
+        0.5,
+        -0.00773,
+        0.66503
+      ]
+    },
+    {
+      "time_s": 7.8,
+      "pelvis_pos": [
+        0.5,
+        -0.00391,
+        0.67719
+      ]
+    }
+  ]
+}
